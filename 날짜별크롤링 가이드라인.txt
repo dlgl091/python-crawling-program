@@ -1,0 +1,3 @@
+<사이트 예시 URL>
+- request 용 : http://www.kapship.com/?date=2022-01-01
+- selenium 용 : http://www.kapship.com/auto/test.php?date=2022-01-01
